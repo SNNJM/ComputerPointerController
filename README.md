@@ -17,5 +17,6 @@ The models that are being used in this projects are based on the OpenVINO toolki
 
 
 Below is architecture of the pipeline
+![pipline](https://github.com/SNNJM/ComputerPointerController/blob/master/bin/ComputerPointer.png?raw=true)
 
 
