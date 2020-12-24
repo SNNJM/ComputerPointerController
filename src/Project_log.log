@@ -1,0 +1,999 @@
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 1547.58 ms
+INFO:root:FacialLandmarkDetection load time: 316.284 ms
+INFO:root:HeadPoseEstimation load time: 470.254 ms
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 817.03 ms
+INFO:root:FacialLandmarkDetection load time: 230.253 ms
+INFO:root:HeadPoseEstimation load time: 270.669 ms
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+ERROR:root:## Face Model path not exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml Please try again !!!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+ERROR:root:## Face Model path not exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP32-INT1\face-detection-adas-0001.xml Please try again !!!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-binary-0001\FP32-INT1\face-detection-adas-binary-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP32\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP32\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP32\gaze-estimation-adas-0002.xml
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+ERROR:root:## Face Model path not exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP32-INT1\face-detection-adas-0001.xml Please try again !!!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+ERROR:root:## Face Model path not exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP32-INT1\face-detection-adas-0001.xml Please try again !!!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+ERROR:root:## Face Model path not exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP32-INT1\face-detection-adas-0001.xml Please try again !!!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+ERROR:root:## Face Model path not exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP32-INT1\face-detection-adas-0001.xml Please try again !!!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 986.865 ms
+INFO:root:FacialLandmarkDetection load time: 239.751 ms
+INFO:root:HeadPoseEstimation load time: 282.719 ms
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+ERROR:root:## Face Model path not exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-binary-0001.xml Please try again !!!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+ERROR:root:## Face Model path not exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-binary-0001.xml Please try again !!!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 1906.032 ms
+INFO:root:FacialLandmarkDetection load time: 258.07 ms
+INFO:root:HeadPoseEstimation load time: 395.24 ms
+INFO:root:GazeEstimation load time: 354.657 ms
+INFO:root:Total Load time: 2913.999 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 676.39 ms
+INFO:root:FacialLandmarkDetection load time: 262.115 ms
+INFO:root:HeadPoseEstimation load time: 262.676 ms
+INFO:root:GazeEstimation load time: 312.409 ms
+INFO:root:Total Load time: 1514.628 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 9.861 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+ERROR:root:## Input file not exists in Path: 0. Please check again !!!
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 827.76 ms
+INFO:root:FacialLandmarkDetection load time: 245.044 ms
+INFO:root:HeadPoseEstimation load time: 250.253 ms
+INFO:root:GazeEstimation load time: 387.795 ms
+INFO:root:Total Load time: 1711.89 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\one-by-one-person-detection.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\galgadot.jpg
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\galgadot.jpg
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 885.921 ms
+INFO:root:FacialLandmarkDetection load time: 100.27 ms
+INFO:root:HeadPoseEstimation load time: 115.914 ms
+INFO:root:GazeEstimation load time: 115.927 ms
+INFO:root:Total Load time: 1218.032 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 15.624 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+ERROR:root:## Input file not exists in Path: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\dgalgadot.jpg. Please check again !!!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\galgadot.jpg
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 347.754 ms
+INFO:root:FacialLandmarkDetection load time: 84.683 ms
+INFO:root:HeadPoseEstimation load time: 84.69 ms
+INFO:root:GazeEstimation load time: 138.061 ms
+INFO:root:Total Load time: 655.189 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\galgadot.jpg
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 338.624 ms
+INFO:root:FacialLandmarkDetection load time: 93.745 ms
+INFO:root:HeadPoseEstimation load time: 84.658 ms
+INFO:root:GazeEstimation load time: 106.78 ms
+INFO:root:Total Load time: 639.393 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 15.799 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\one-by-one-person-detection.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 347.691 ms
+INFO:root:FacialLandmarkDetection load time: 84.687 ms
+INFO:root:HeadPoseEstimation load time: 100.298 ms
+INFO:root:GazeEstimation load time: 115.906 ms
+INFO:root:Total Load time: 648.582 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 15.618 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 346.02 ms
+INFO:root:FacialLandmarkDetection load time: 90.496 ms
+INFO:root:HeadPoseEstimation load time: 94.695 ms
+INFO:root:GazeEstimation load time: 122.213 ms
+INFO:root:Total Load time: 653.425 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 369.168 ms
+INFO:root:FacialLandmarkDetection load time: 89.495 ms
+INFO:root:HeadPoseEstimation load time: 95.667 ms
+INFO:root:GazeEstimation load time: 121.353 ms
+INFO:root:Total Load time: 675.684 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 346.669 ms
+INFO:root:FacialLandmarkDetection load time: 91.754 ms
+INFO:root:HeadPoseEstimation load time: 109.124 ms
+INFO:root:GazeEstimation load time: 122.017 ms
+INFO:root:Total Load time: 670.561 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 346.822 ms
+INFO:root:FacialLandmarkDetection load time: 92.901 ms
+INFO:root:HeadPoseEstimation load time: 93.187 ms
+INFO:root:GazeEstimation load time: 119.999 ms
+INFO:root:Total Load time: 652.909 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 332.176 ms
+INFO:root:FacialLandmarkDetection load time: 84.716 ms
+INFO:root:HeadPoseEstimation load time: 100.309 ms
+INFO:root:GazeEstimation load time: 115.91 ms
+INFO:root:Total Load time: 633.111 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 15.623 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\demo.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 345.992 ms
+INFO:root:FacialLandmarkDetection load time: 84.612 ms
+INFO:root:HeadPoseEstimation load time: 131.575 ms
+INFO:root:GazeEstimation load time: 115.865 ms
+INFO:root:Total Load time: 678.045 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 332.082 ms
+INFO:root:FacialLandmarkDetection load time: 100.315 ms
+INFO:root:HeadPoseEstimation load time: 84.686 ms
+INFO:root:GazeEstimation load time: 131.449 ms
+INFO:root:Total Load time: 648.532 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 343.196 ms
+INFO:root:FacialLandmarkDetection load time: 91.975 ms
+INFO:root:HeadPoseEstimation load time: 95.559 ms
+INFO:root:GazeEstimation load time: 115.929 ms
+INFO:root:Total Load time: 646.659 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 347.66 ms
+INFO:root:FacialLandmarkDetection load time: 84.683 ms
+INFO:root:HeadPoseEstimation load time: 100.303 ms
+INFO:root:GazeEstimation load time: 138.024 ms
+INFO:root:Total Load time: 670.67 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 338.68 ms
+INFO:root:FacialLandmarkDetection load time: 84.61 ms
+INFO:root:HeadPoseEstimation load time: 100.24 ms
+INFO:root:GazeEstimation load time: 115.502 ms
+INFO:root:Total Load time: 639.033 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 400.813 ms
+INFO:root:FacialLandmarkDetection load time: 100.268 ms
+INFO:root:HeadPoseEstimation load time: 131.508 ms
+INFO:root:GazeEstimation load time: 184.948 ms
+INFO:root:Total Load time: 817.537 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 354.253 ms
+INFO:root:FacialLandmarkDetection load time: 84.644 ms
+INFO:root:HeadPoseEstimation load time: 100.273 ms
+INFO:root:GazeEstimation load time: 131.555 ms
+INFO:root:Total Load time: 670.724 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 347.691 ms
+INFO:root:FacialLandmarkDetection load time: 81.513 ms
+INFO:root:HeadPoseEstimation load time: 101.883 ms
+INFO:root:GazeEstimation load time: 121.315 ms
+INFO:root:Total Load time: 652.402 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video2.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 347.695 ms
+INFO:root:FacialLandmarkDetection load time: 100.287 ms
+INFO:root:HeadPoseEstimation load time: 84.72 ms
+INFO:root:GazeEstimation load time: 115.96 ms
+INFO:root:Total Load time: 664.249 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 15.591 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 343.969 ms
+INFO:root:FacialLandmarkDetection load time: 99.842 ms
+INFO:root:HeadPoseEstimation load time: 97.93 ms
+INFO:root:GazeEstimation load time: 115.866 ms
+INFO:root:Total Load time: 657.607 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 15.645 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 338.627 ms
+INFO:root:FacialLandmarkDetection load time: 93.732 ms
+INFO:root:HeadPoseEstimation load time: 84.692 ms
+INFO:root:GazeEstimation load time: 138.105 ms
+INFO:root:Total Load time: 655.155 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 15.875 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 347.795 ms
+INFO:root:FacialLandmarkDetection load time: 100.278 ms
+INFO:root:HeadPoseEstimation load time: 84.47 ms
+INFO:root:GazeEstimation load time: 131.534 ms
+INFO:root:Total Load time: 664.076 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 15.591 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 332.051 ms
+INFO:root:FacialLandmarkDetection load time: 84.656 ms
+INFO:root:HeadPoseEstimation load time: 100.32 ms
+INFO:root:GazeEstimation load time: 115.727 ms
+INFO:root:Total Load time: 648.407 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 390.595 ms
+INFO:root:FacialLandmarkDetection load time: 89.269 ms
+INFO:root:HeadPoseEstimation load time: 93.911 ms
+INFO:root:GazeEstimation load time: 132.36 ms
+INFO:root:Total Load time: 706.136 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 10.396 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 347.683 ms
+INFO:root:FacialLandmarkDetection load time: 100.304 ms
+INFO:root:HeadPoseEstimation load time: 84.697 ms
+INFO:root:GazeEstimation load time: 132.873 ms
+INFO:root:Total Load time: 665.556 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 15.617 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 385.463 ms
+INFO:root:FacialLandmarkDetection load time: 84.455 ms
+INFO:root:HeadPoseEstimation load time: 100.241 ms
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 617.036 ms
+INFO:root:FacialLandmarkDetection load time: 100.325 ms
+INFO:root:HeadPoseEstimation load time: 115.867 ms
+INFO:root:GazeEstimation load time: 138.022 ms
+INFO:root:Total Load time: 971.25 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 347.745 ms
+INFO:root:FacialLandmarkDetection load time: 84.712 ms
+INFO:root:HeadPoseEstimation load time: 100.271 ms
+INFO:root:GazeEstimation load time: 147.191 ms
+INFO:root:Total Load time: 679.918 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 342.636 ms
+INFO:root:FacialLandmarkDetection load time: 89.906 ms
+INFO:root:HeadPoseEstimation load time: 97.678 ms
+INFO:root:GazeEstimation load time: 129.689 ms
+INFO:root:Total Load time: 659.909 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 349.964 ms
+INFO:root:FacialLandmarkDetection load time: 91.939 ms
+INFO:root:HeadPoseEstimation load time: 96.718 ms
+INFO:root:GazeEstimation load time: 124.51 ms
+INFO:root:Total Load time: 663.131 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 369.378 ms
+INFO:root:FacialLandmarkDetection load time: 90.795 ms
+INFO:root:HeadPoseEstimation load time: 99.792 ms
+INFO:root:GazeEstimation load time: 124.167 ms
+INFO:root:Total Load time: 684.132 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 355.052 ms
+INFO:root:FacialLandmarkDetection load time: 90.847 ms
+INFO:root:HeadPoseEstimation load time: 100.09 ms
+INFO:root:GazeEstimation load time: 125.693 ms
+INFO:root:Total Load time: 671.681 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 566.491 ms
+INFO:root:FacialLandmarkDetection load time: 100.551 ms
+INFO:root:HeadPoseEstimation load time: 113.977 ms
+INFO:root:GazeEstimation load time: 125.717 ms
+INFO:root:Total Load time: 906.736 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: True. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 811.246 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 350.494 ms
+INFO:root:FacialLandmarkDetection load time: 90.372 ms
+INFO:root:HeadPoseEstimation load time: 96.737 ms
+INFO:root:GazeEstimation load time: 128.114 ms
+INFO:root:Total Load time: 665.717 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: True. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 863.353 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 351.998 ms
+INFO:root:FacialLandmarkDetection load time: 89.99 ms
+INFO:root:HeadPoseEstimation load time: 98.44 ms
+INFO:root:GazeEstimation load time: 123.643 ms
+INFO:root:Total Load time: 664.071 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 338.66 ms
+INFO:root:FacialLandmarkDetection load time: 93.769 ms
+INFO:root:HeadPoseEstimation load time: 100.279 ms
+INFO:root:GazeEstimation load time: 122.508 ms
+INFO:root:Total Load time: 655.216 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+ERROR:root:## Input file not exists in Path: CPU. Please check again !!!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 338.623 ms
+INFO:root:FacialLandmarkDetection load time: 100.308 ms
+INFO:root:HeadPoseEstimation load time: 84.645 ms
+INFO:root:GazeEstimation load time: 131.57 ms
+INFO:root:Total Load time: 655.146 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 15.61 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+ERROR:root:## Input file not exists in Path: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\dgalgadot.jpg. Please check again !!!
+ERROR:root:## Input file not exists in Path: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\galgadot.jpg. Please check again !!!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\galgadot.jpg
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 369.833 ms
+INFO:root:FacialLandmarkDetection load time: 84.688 ms
+INFO:root:HeadPoseEstimation load time: 100.281 ms
+INFO:root:GazeEstimation load time: 131.49 ms
+INFO:root:Total Load time: 686.292 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 344.894 ms
+INFO:root:FacialLandmarkDetection load time: 90.754 ms
+INFO:root:HeadPoseEstimation load time: 95.756 ms
+INFO:root:GazeEstimation load time: 128.317 ms
+INFO:root:Total Load time: 659.721 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 363.276 ms
+INFO:root:FacialLandmarkDetection load time: 84.69 ms
+INFO:root:HeadPoseEstimation load time: 100.297 ms
+INFO:root:GazeEstimation load time: 115.93 ms
+INFO:root:Total Load time: 664.192 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 15.586 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 347.779 ms
+INFO:root:FacialLandmarkDetection load time: 84.689 ms
+INFO:root:HeadPoseEstimation load time: 100.283 ms
+INFO:root:GazeEstimation load time: 131.498 ms
+INFO:root:Total Load time: 664.25 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 365.023 ms
+INFO:root:FacialLandmarkDetection load time: 109.706 ms
+INFO:root:HeadPoseEstimation load time: 104.72 ms
+INFO:root:GazeEstimation load time: 135.638 ms
+INFO:root:Total Load time: 715.086 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: True. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 813.036 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 352.357 ms
+INFO:root:FacialLandmarkDetection load time: 92.164 ms
+INFO:root:HeadPoseEstimation load time: 97.015 ms
+INFO:root:GazeEstimation load time: 120.95 ms
+INFO:root:Total Load time: 662.486 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 355.041 ms
+INFO:root:FacialLandmarkDetection load time: 90.922 ms
+INFO:root:HeadPoseEstimation load time: 96.78 ms
+INFO:root:GazeEstimation load time: 124.424 ms
+INFO:root:Total Load time: 668.134 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 332.118 ms
+INFO:root:FacialLandmarkDetection load time: 100.319 ms
+INFO:root:HeadPoseEstimation load time: 84.647 ms
+INFO:root:GazeEstimation load time: 131.503 ms
+INFO:root:Total Load time: 648.587 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 347.779 ms
+INFO:root:FacialLandmarkDetection load time: 84.724 ms
+INFO:root:HeadPoseEstimation load time: 84.651 ms
+INFO:root:GazeEstimation load time: 131.504 ms
+INFO:root:Total Load time: 664.281 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 332.059 ms
+INFO:root:FacialLandmarkDetection load time: 100.273 ms
+INFO:root:HeadPoseEstimation load time: 84.716 ms
+INFO:root:GazeEstimation load time: 131.516 ms
+INFO:root:Total Load time: 648.564 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:Average inference time of FaceDetection model: nan ms
+INFO:root:Average inference time of FacialLandmarkDetection model: nan ms
+INFO:root:Average inference time of HeadPoseEstimation model: nan ms
+INFO:root:Average inference time of GazeEstimation model: nan ms
+INFO:root:Total inference time: 15.61 ms
+INFO:root:Total frame: 0
+INFO:root:FPS: 0.0
+ERROR:root:### Camera Stream or Video Stream has reach to the end...###
+INFO:root:
+Input path exists: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\bin\video.mp4
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 347.681 ms
+INFO:root:FacialLandmarkDetection load time: 84.708 ms
+INFO:root:HeadPoseEstimation load time: 115.884 ms
+INFO:root:GazeEstimation load time: 131.58 ms
+INFO:root:Total Load time: 679.854 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+ERROR:root:flag_return: False. Video has reach to the end...
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 343.843 ms
+INFO:root:FacialLandmarkDetection load time: 88.286 ms
+INFO:root:HeadPoseEstimation load time: 98.314 ms
+INFO:root:GazeEstimation load time: 138.066 ms
+INFO:root:Total Load time: 668.508 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 349.342 ms
+INFO:root:FacialLandmarkDetection load time: 93.264 ms
+INFO:root:HeadPoseEstimation load time: 103.773 ms
+INFO:root:GazeEstimation load time: 129.659 ms
+INFO:root:Total Load time: 676.038 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
+INFO:root:
+## You are using CAMERA right now...cam detected!
+INFO:root:## Face Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+INFO:root:## Landmarks Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\landmarks-regression-retail-0009\FP16\landmarks-regression-retail-0009.xml
+INFO:root:## Headpose Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+INFO:root:## Gaze Model path is correct: C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\models\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+INFO:root:## Loaded Input Feeder 
+INFO:root:FaceDetection load time: 384.32 ms
+INFO:root:FacialLandmarkDetection load time: 100.708 ms
+INFO:root:HeadPoseEstimation load time: 117.563 ms
+INFO:root:GazeEstimation load time: 148.602 ms
+INFO:root:Total Load time: 752.215 ms
+INFO:root:## All model successfully loaded!
+INFO:root:## Start inference on frame!
