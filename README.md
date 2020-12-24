@@ -178,4 +178,14 @@ C:.
             mouse_controller.cpython-36.pyc
 ```
 
+## Demo
+_______________
+**1. cd to `src` folder first**
+
+
+**2. Template of run the `main.py`**
+```
+python main.py -fd <Path of xml file for face detection model> -fl <Path of xml file for facial landmarks detection model> -hp <Path of xml file for head pose estimation model> -ge <Path of xml file for gaze estimation model> -i <Path of input video file or enter cam for feeding input from webcam> -d <choose the device to run the model (default CPU)> -show <select the visualization: win fd fl hp ge crop> -pc <use perf_counts to display performance of layers on each model> -info <show related information such as infer time of model, FPS, No.frame in command window>
+```
+
 
