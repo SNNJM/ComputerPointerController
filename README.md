@@ -76,4 +76,106 @@ Adding -o path will help ypu specify to a targeted folder.
     python "C:\Program Files (x86)\IntelSWTools\openvino\deployment_tools\open_model_zoo\tools\downloader\downloader.py" --name gaze-estimation-adas-0002
 ```
   
-  
+ Below ois the source structure of project:
+``` 
+C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main>tree /a /f
+Folder PATH listing for volume OS
+Volume serial number is 6EF5-D9EA
+C:.
+|   .Instructions.md.swp
+|   README.md
+|   requirements.txt
+|
++---bin
+|       .gitkeep
+|       ComputerPointer.png
+|       demo.mp4
+|       result.png
+|
++---models
+|   +---face-detection-adas-0001
+|   |   +---FP16
+|   |   |       face-detection-adas-0001.bin
+|   |   |       face-detection-adas-0001.xml
+|   |   |
+|   |   +---FP16-INT8
+|   |   |       face-detection-adas-0001.bin
+|   |   |       face-detection-adas-0001.xml
+|   |   |
+|   |   \---FP32
+|   |           face-detection-adas-0001.bin
+|   |           face-detection-adas-0001.xml
+|   |
+|   +---face-reidentification-retail-0095
+|   |   +---FP16
+|   |   |       face-reidentification-retail-0095.bin
+|   |   |       face-reidentification-retail-0095.xml
+|   |   |
+|   |   +---FP16-INT8
+|   |   |       face-reidentification-retail-0095.bin
+|   |   |       face-reidentification-retail-0095.xml
+|   |   |
+|   |   \---FP32
+|   |           face-reidentification-retail-0095.bin
+|   |           face-reidentification-retail-0095.xml
+|   |
+|   +---gaze-estimation-adas-0002
+|   |   +---FP16
+|   |   |       gaze-estimation-adas-0002.bin
+|   |   |       gaze-estimation-adas-0002.xml
+|   |   |
+|   |   +---FP16-INT8
+|   |   |       gaze-estimation-adas-0002.bin
+|   |   |       gaze-estimation-adas-0002.xml
+|   |   |
+|   |   \---FP32
+|   |           gaze-estimation-adas-0002.bin
+|   |           gaze-estimation-adas-0002.xml
+|   |
+|   +---head-pose-estimation-adas-0001
+|   |   +---FP16
+|   |   |       head-pose-estimation-adas-0001.bin
+|   |   |       head-pose-estimation-adas-0001.xml
+|   |   |
+|   |   +---FP16-INT8
+|   |   |       head-pose-estimation-adas-0001.bin
+|   |   |       head-pose-estimation-adas-0001.xml
+|   |   |
+|   |   \---FP32
+|   |           head-pose-estimation-adas-0001.bin
+|   |           head-pose-estimation-adas-0001.xml
+|   |
+|   \---landmarks-regression-retail-0009
+|       +---FP16
+|       |       landmarks-regression-retail-0009.bin
+|       |       landmarks-regression-retail-0009.xml
+|       |
+|       +---FP16-INT8
+|       |       landmarks-regression-retail-0009.bin
+|       |       landmarks-regression-retail-0009.xml
+|       |
+|       \---FP32
+|               landmarks-regression-retail-0009.bin
+|               landmarks-regression-retail-0009.xml
+|
+\---src
+    |   face_detection.py
+    |   facial_landmarks_detection.py
+    |   gaze_estimation.py
+    |   head_pose_estimation.py
+    |   input_feeder.py
+    |   main.py
+    |   model.py
+    |   mouse_controller.py
+    |   Project_log.log
+    |
+    \---__pycache__
+            face_detection.cpython-36.pyc
+            facial_landmarks_detection.cpython-36.pyc
+            gaze_estimation.cpython-36.pyc
+            head_pose_estimation.cpython-36.pyc
+            input_feeder.cpython-36.pyc
+            mouse_controller.cpython-36.pyc
+```
+
+
