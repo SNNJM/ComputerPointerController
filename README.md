@@ -44,7 +44,7 @@ _______________
 
 Initialize openVINO environment (command in cmd)
 
-Go to <openvinopath>/bin/setupvars.bat for windows 10
+Go to openvinopath/bin/setupvars.bat for windows 10
     
 This need to be initialized each time a new terminal/cmd is opened
   
