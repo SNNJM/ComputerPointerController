@@ -58,8 +58,10 @@ This need to be initialized each time a new terminal/cmd is opened
     
     OR
     
- You can use the model_downloader in the OpenVINO toolkit path: /deployment_tools/tools/model_downloader
-You can specify target folder by adding -o path
+You can use the model_downloader in the OpenVINO toolkit path: /deployment_tools/tools/model_downloader
+
+Adding -o path will help ypu specify to a targeted folder.
+
  
  - cd to project directory and follow command below to download the models.
  ```sh
