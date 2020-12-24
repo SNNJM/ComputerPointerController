@@ -33,16 +33,19 @@ Below is architecture of the pipeline:
 
 ## Project Set Up and Installation
 _______________
-**1.A must have!** 
+**1. A must have!** 
 - [Install Intel® Distribution of OpenVINO™ toolkit for Windows* 10](https://docs.openvinotoolkit.org/latest/openvino_docs_install_guides_installing_openvino_windows.html#model_optimizer_configuration_steps) or you can choose install in Linux system.
 - The `requirments.txt` in project directory needs to be installed. Using command: 
     - `pip3 install -r requirements.txt`
 
 
 
-**2.Environment setup**
+**2. Environment setup**
+
 Initialize openVINO environment (command in cmd)
+
 Go to <openvinopath>/bin/setupvars.bat for windows 10
+    
 This need to be initialized each time a new terminal/cmd is opened
   
   
