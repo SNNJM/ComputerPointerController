@@ -16,7 +16,7 @@ The models that are being used in this projects are based on the OpenVINO toolki
 4. [Landmark Regression](https://docs.openvinotoolkit.org/latest/omz_models_intel_head_pose_estimation_adas_0001_description_head_pose_estimation_adas_0001.html) model is  is a lightweight landmarks regressor and a classic convolutional design: stacked 3x3 convolutions, batch normalizations, PReLU activations, and poolings. Final regression is done by the global depthwise pooling head and FullyConnected layers. The model predicts five facial landmarks: two eyes, nose, and two lip corners.
 
 
-Below is architecture of the pipeline
+Below is architecture of the pipeline:
 
 ![pipline](https://github.com/SNNJM/ComputerPointerController/blob/master/bin/ComputerPointer.png?raw=true)
 
