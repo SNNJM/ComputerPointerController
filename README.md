@@ -189,3 +189,60 @@ python main.py -fd <Path of xml file for face detection model> -fl <Path of xml 
 ```
 
 
+
+## Documentation
+_______________
+
+### Command line agruments 
+**Try command `python main.py -h` to get help for command line arguments of the application** 
+```
+C:\Users\A221LPEN\Desktop\udacity\A5\Computer-Pointer-Controller-main\src>python main.py -h
+usage: main.py [-h] -fd FACE_DETECTION_PATH -fl FACIAL_LANDMARKS_PATH -hp
+               HEAD_POSE_PATH -ge GAZE_ESTIMATION_PATH -i INPUT [-pc]
+               [-show FLAG_VISUALIZATION [FLAG_VISUALIZATION ...]] [-info]
+               [-l CPU_EXTENSION] [-d DEVICE] [-pt PROB_THRESHOLD]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -fd FACE_DETECTION_PATH, --face_detection_path FACE_DETECTION_PATH
+                        (required) Path to Face Detection Model .xml file.
+  -fl FACIAL_LANDMARKS_PATH, --facial_landmarks_path FACIAL_LANDMARKS_PATH
+                        (required) Path to Facial Landmarks Detection Model
+                        .xml file.
+  -hp HEAD_POSE_PATH, --head_pose_path HEAD_POSE_PATH
+                        (required) Path to Head Pose Estimation Model .xml
+                        file.
+  -ge GAZE_ESTIMATION_PATH, --gaze_estimation_path GAZE_ESTIMATION_PATH
+                        (required) Path to Gaze Estimation Model .xml file.
+  -i INPUT, --input INPUT
+                        (required) Path to Input File either image or video or
+                        CAM (using camera).
+  -pc, --perf_counts    Report performance countersPrint the real time takes
+                        for each layer in the model
+  -show FLAG_VISUALIZATION [FLAG_VISUALIZATION ...], --flag_visualization FLAG_VISUALIZATION [FLAG_VISUALIZATION ...]
+                        (optional) Visualize the selected model on the output
+                        frame window. 'win': display the visualization window
+                        (To visualize other model must with 'win'), 'fd': Face
+                        Detection Model, 'fl': Facial Landmarks Detection
+                        Model, 'crop': Cropped face with Landmarks
+                        Detection,'hp': Head Pose Estimation Model, 'ge': Gaze
+                        Estimation Model. For example, '--show win fd fl hp ge
+                        crop' (Seperate each flag by space).
+  -info, --show_info    Flag to show all the related information in command
+                        window. No. of frame, Average and total infer time of
+                        each models, Total frame, FPS...
+  -l CPU_EXTENSION, --cpu_extension CPU_EXTENSION
+                        (optional) MKLDNN (CPU)-targeted custom
+                        layers.Absolute path to cpu_extension if layers from
+                        model are not supported on device.
+  -d DEVICE, --device DEVICE
+                        (optional) Specify the target device to infer on: CPU,
+                        GPU, FPGA or MYRIAD is acceptable. Sample will look
+                        for a suitable plugin for device specified (CPU by
+                        default)
+  -pt PROB_THRESHOLD, --prob_threshold PROB_THRESHOLD
+                        (optional) Probability threshold for detections (0.6
+                        by default)
+                       
+ ```
+
